@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Create file with content using echo (careful with quotes in Git Bash)
 
 from flask import Flask, request, jsonify
@@ -46,7 +46,7 @@ def knowledge():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8001,debug=True)
-=======
+
 # Create file with content using echo (careful with quotes in Git Bash)
 
 from flask import Flask, request, jsonify
@@ -94,4 +94,4 @@ def knowledge():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8001,debug=True)
->>>>>>> 4086aeb2656761c8efbb86d68dee50fb9d59000a
+
